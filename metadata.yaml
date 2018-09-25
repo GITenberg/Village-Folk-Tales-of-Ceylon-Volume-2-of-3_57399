@@ -1,11 +1,16 @@
 _repo: Village-Folk-Tales-of-Ceylon-Volume-2-of-3_57399
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57399-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Parker, Henry
     gutenberg_agent_id: '48946'
     url: http://www.gutenberg.org/2009/agents/48946
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57399#Village-Folk-Tales-of-Ceylon-Volume-2-of-3
 gutenberg_issued: '2018-06-25'
 gutenberg_type: Text
 identifiers:
